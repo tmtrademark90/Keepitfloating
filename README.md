@@ -1,6 +1,7 @@
 
 <div class="shell">
 
+<title> Keep it Floating
 
 
 <header>
@@ -37,9 +38,7 @@
 
 
 
-</body>
 
-</html>
 
 
 
